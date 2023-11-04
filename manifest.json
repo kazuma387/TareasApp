@@ -1,0 +1,18 @@
+{
+  "shor_name": "TasksApp",
+  "name": "Aplicacion de Tareas",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "./assets/tareas192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/tareas512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
